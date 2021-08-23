@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/indUpgRct/static/css/main.7fea0de6.chunk.css",
+    "main.js": "/indUpgRct/static/js/main.2b767534.chunk.js",
+    "main.js.map": "/indUpgRct/static/js/main.2b767534.chunk.js.map",
+    "runtime-main.js": "/indUpgRct/static/js/runtime-main.70d44a82.js",
+    "runtime-main.js.map": "/indUpgRct/static/js/runtime-main.70d44a82.js.map",
+    "static/css/2.150d169a.chunk.css": "/indUpgRct/static/css/2.150d169a.chunk.css",
+    "static/js/2.d9ee9f67.chunk.js": "/indUpgRct/static/js/2.d9ee9f67.chunk.js",
+    "static/js/2.d9ee9f67.chunk.js.map": "/indUpgRct/static/js/2.d9ee9f67.chunk.js.map",
+    "static/js/3.48692cd0.chunk.js": "/indUpgRct/static/js/3.48692cd0.chunk.js",
+    "static/js/3.48692cd0.chunk.js.map": "/indUpgRct/static/js/3.48692cd0.chunk.js.map",
+    "index.html": "/indUpgRct/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/indUpgRct/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.7fea0de6.chunk.css.map": "/indUpgRct/static/css/main.7fea0de6.chunk.css.map",
+    "static/js/2.d9ee9f67.chunk.js.LICENSE.txt": "/indUpgRct/static/js/2.d9ee9f67.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/indUpgRct/static/media/Aq.a37a828d.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70d44a82.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.d9ee9f67.chunk.js",
+    "static/css/main.7fea0de6.chunk.css",
+    "static/js/main.2b767534.chunk.js"
+  ]
+}
